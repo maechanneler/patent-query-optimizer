@@ -1,0 +1,19 @@
+# Core dependencies
+python-dotenv>=1.0.0
+pandas>=2.0.0
+openai>=1.0.0
+
+# API Integration
+google-search-results>=2.4.2  # For SerpAPI
+
+# Data handling and utilities
+pathlib>=1.0.1
+argparse>=1.4.0
+
+# Logging and time utilities
+logging>=0.5.1.2
+datetime>=5.0
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0  # For test coverage reports
